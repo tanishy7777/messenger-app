@@ -1,0 +1,20 @@
+{
+  "name": "messenger-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanishy7777/messenger-app.git"
+  },
+  "author": "tanishy7777",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanishy7777/messenger-app/issues"
+  },
+  "homepage": "https://github.com/tanishy7777/messenger-app#readme",
+  "description": ""
+}
